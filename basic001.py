@@ -1,4 +1,3 @@
-'''
 
 
 
@@ -72,4 +71,3 @@ print(69 in lis)
 print("Python" not in course)
 print(69 not in lis)
 
-'''
